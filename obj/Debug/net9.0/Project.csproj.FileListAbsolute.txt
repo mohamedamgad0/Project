@@ -152,3 +152,7 @@ D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\obj\Debug\
 D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\obj\Debug\net9.0\Project.pdb
 D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\obj\Debug\net9.0\Project.genruntimeconfig.cache
 D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\obj\Debug\net9.0\ref\Project.dll
+D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS\CS\Fourth Year\First Term\Software Construction\Project\Project\obj\Debug\net9.0\Project.sourcelink.json
